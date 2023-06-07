@@ -18,4 +18,4 @@ python3 build_msmo.py --video-ids ./keys --dataset-dir {dataset-dir} 2>&1 | tee 
 
 ## License
 
-This project is licensed under the Apache-2.0 License.
+This project is licensed under the CC BY-NC-SA License.
