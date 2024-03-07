@@ -1,4 +1,4 @@
-# MM Data Collection Tool
+# MMSum Data Collection Tool
 
 Codebase for multimodal video data collection. 
 
